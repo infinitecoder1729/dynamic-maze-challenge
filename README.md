@@ -594,6 +594,8 @@ Contributions welcome! Please follow these guidelines:
 
 <div align="center">
 
-**Made with ❤️**
+**Made with ❤️ by @infinitecoder1729**
+
+**Note on AI Assistance > This project utilized Large Language Models (LLMs) to refine code documentation, standardize variable naming conventions, and assist with code formatting and beautification.**
 
 </div>
